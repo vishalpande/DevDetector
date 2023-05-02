@@ -165,7 +165,7 @@ submitbutt.addEventListener("click", function () {
     }
   
   
-    //by default, Let's show my GitHub profile on UI
+    //by default, Let's show my GitHub profile on ui
     getUserData(url + "vishalpande");
   }
   
