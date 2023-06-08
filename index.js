@@ -145,7 +145,7 @@ submitbutt.addEventListener("click", function () {
   }
   
   
-  //INITIALISE ui Code 
+  //INITIALISE ui Code .
   function init() {
     darkMode = false;
     const value = localStorage.getItem("dark-mode");
