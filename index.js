@@ -70,7 +70,7 @@ submitbutt.addEventListener("click", function () {
   }
   
   
-  //Let's display User's data---->Rendering of user;s data will be done here
+  //Let's display User's data---->Rendering of user;s data will be done here.
   function updateProfile(data) {
     if (data.message !== "Not Found") {
       noresults.style.display = "none";
