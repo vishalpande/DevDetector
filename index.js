@@ -66,7 +66,7 @@ submitbutt.addEventListener("click", function () {
       })
       .catch((error) => {
         throw error;
-      });
+      });.
   }
   
   
