@@ -56,7 +56,7 @@ submitbutt.addEventListener("click", function () {
     }
   });
   
-  //API CALL
+  //API CALL.
   function getUserData(gitUrl) {
     fetch(gitUrl)
       .then((response) => response.json())
